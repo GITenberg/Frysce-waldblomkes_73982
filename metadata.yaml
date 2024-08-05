@@ -1,0 +1,30 @@
+_repo: Frysce-waldblomkes_73982
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kloosterman, J. R. (Jan Ritskes)
+    alias: Kloosterman, Jan Ritskes
+    birthdate: 1847
+    deathdate: 1914
+    gutenberg_agent_id: '57297'
+    url: http://www.gutenberg.org/2009/agents/57297
+    wikipedia: https://fy.wikipedia.org/wiki/Jan_Ritskes_Kloosterman
+description: ''
+gutenberg_issued: '2024-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73982'
+language: fy
+pgterms:marc905: 20240704113402kloosterma
+pgterms:marc906: '1883'
+pgterms:marc907: nl
+publication_note: '  $aNetherlands :$bJ. K. Zeehuizen & Co., $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frisian poetry'
+- !lcc 'PF'
+- GITenberg
+title: Frysce wâldblomkes
+url: http://www.gutenberg.org/ebooks/73982
